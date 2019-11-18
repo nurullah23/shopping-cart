@@ -1,0 +1,31 @@
+.cart-item {
+    list-style-type: none;
+    width: 90%;
+
+    .item-name {
+        display: inline-block;
+        width: 70%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        vertical-align: middle;
+        padding-right: 20px;
+    }
+
+    input {
+        margin-right: 20px;
+        vertical-align: middle;
+    }
+
+    .remove-icon {
+        padding-right: 10px;
+        position: relative;
+        top: 3px;
+    }
+
+    .item-price {
+        padding-left: 10px;
+        color: lightgray;
+        font-style: italic;
+    }
+}

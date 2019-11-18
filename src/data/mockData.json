@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Google - Pixel 3 with 64GB Memory Cell Phone (Unlocked) - Just Black",
+        "price": 287
+    },
+    {
+        "id": 2,
+        "name": "Razer Phone 2 (New): Unlocked Gaming Smartphone – …g – Chroma – 8GB RAM - 64GB - Mirror Black Finish",
+        "price": 399.99
+    },
+    {
+        "id": 3,
+        "name": "Apple iPhone XR, 64GB, Black - Fully Unlocked (Renewed)",
+        "price": 498
+    },
+    {
+        "id": 4,
+        "name": "Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed)",
+        "price": 139.99
+    },
+    {
+        "id": 5,
+        "name": "Samsung Galaxy S7 G930A 32GB Black Onyx - Unlocked GSM (Renewed)",
+        "price": 142.99
+    },
+    {
+        "id": 6,
+        "name": "Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only)",
+        "price": 166.98
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy S8 - Unlocked - Midnight Black (Renewed)",
+        "price": 229.98
+    },
+    {
+        "id": 8,
+        "name": "Samsung Galaxy A10 32GB A105G/DS LTE Unlocked GSM …hone - International Version, No Warranty (Black)",
+        "price": 139
+    },
+    {
+        "id": 9,
+        "name": "Apple iPhone 8 Plus, 256GB, Gold - Fully Unlocked (Renewed)",
+        "price": 539
+    },
+    {
+        "id": 10,
+        "name": "Samsung Galaxy S8 Orchid Gray 64GB Verizon and GSM Factory Unlocked 4G LTE (Renewed)",
+        "price": 232.99
+    },
+    {
+        "id": 11,
+        "name": "Tracfone Alcatel MyFlip 4G Prepaid Easy-to-Use Cel…(Locked) - Black - 4GB - Sim Card Included - CDMA",
+        "price": 14.99
+    },
+    {
+        "id": 12,
+        "name": "Apple iPhone Xs, Fully Unlocked, 256 GB - Space Gray (Renewed)",
+        "price": 654
+    },
+    {
+        "id": 13,
+        "name": "TracFone Samsung Galaxy J7 Crown 4G LTE Prepaid Sm…Locked) - Black - 16GB - Sim Card Included - CDMA",
+        "price": 84.38
+    },
+    {
+        "id": 14,
+        "name": "Samsung Galaxy S7 G930V 32GB, Verizon, Black Onyx, Unlocked Smartphones (Renewed)",
+        "price": 118.98
+    },
+    {
+        "id": 15,
+        "name": "Xiaomi Redmi Note 8 Pro 64GB, 6GB RAM 6.53\" LTE GS…Unlocked Smartphone - Global Model (Mineral Grey)",
+        "price": 223
+    },
+    {
+        "id": 16,
+        "name": "Apple iPhone 8, 64GB, Silver - Fully Unlocked (Renewed)",
+        "price": 339
+    },
+    {
+        "id": 17,
+        "name": "Xiaomi A3 4+64Gb Blue EU",
+        "price": 158
+    },
+    {
+        "id": 18,
+        "name": "Jitterbug Flip Easy-to-use Cell Phone for Seniors (Red) by GreatCall",
+        "price": 67
+    },
+    {
+        "id": 19,
+        "name": "Motorola One Action - Unlocked Smartphone - Global…on, AT&T, T-Mobile, Sprint, Boost, Cricket, Metro",
+        "price": 349.99
+    },
+    {
+        "id": 20,
+        "name": "Apple iPhone 6S Plus, 16GB, Rose Gold - Fully Unlocked (Renewed)",
+        "price": 195
+    },
+    {
+        "id": 21,
+        "name": "Samsung Galaxy Note 9 SM-N960U 128GB Ocean Blue - Verizon (Renewed)",
+        "price": 390
+    },
+    {
+        "id": 22,
+        "name": "Apple iPhone 7, 32GB, Rose Gold - Fully Unlocked (Renewed)",
+        "price": 209
+    },
+    {
+        "id": 23,
+        "name": "Moto Z4 – Unlocked – 128 GB – Flash Gray (US Warra…obile, Sprint, Boost, Cricket, Metro - PAF60007US",
+        "price": 499.99
+    },
+    {
+        "id": 24,
+        "name": "Net10 Samsung Galaxy J3 Orbit 4G LTE Prepaid Cell …Locked) - Black - 16GB - Sim Card Included - CDMA",
+        "price": 42.78
+    },
+    {
+        "id": 25,
+        "name": "LG G6 VS988 - Ice Platinum - 32GB - Verizon (Renewed)",
+        "price": 113.89
+    },
+    {
+        "id": 26,
+        "name": "Samsung Galaxy J3 2018 (16GB) J337A - 5.0\" HD Disp… 8.0, 4G LTE AT&T Unlocked GSM Smartphone (Black)",
+        "price": 111.5
+    },
+    {
+        "id": 27,
+        "name": "LG G6 H872 32GB Ice Platinum - T-Mobile (Renewed)",
+        "price": 104.95
+    },
+    {
+        "id": 28,
+        "name": "Samsung Galaxy S10e Factory Unlocked Phone with 128GB, Prism White (Renewed)",
+        "price": 450.95
+    },
+    {
+        "id": 29,
+        "name": "Total Wireless TCL LX 4G LTE Prepaid Smartphone (Locked) - Black - 16GB - Sim Card Included - CDMA",
+        "price": 26.99
+    },
+    {
+        "id": 30,
+        "name": "TracFone TCL LX 4G LTE Prepaid Smartphone (Locked) - Black - 16GB - Sim Card Included - CDMA",
+        "price": 39.88
+    },
+    {
+        "id": 31,
+        "name": "TracFone LG Rebel 4 4G LTE Prepaid Smartphone (Locked) - Black - 16GB - Sim Card Included - CDMA",
+        "price": 49
+    },
+    {
+        "id": 32,
+        "name": "ooma Telo Free Home Phone Service and HD3 Handset. Works with Amazon Echo and Smart Devices.",
+        "price": 86.91
+    }
+]
