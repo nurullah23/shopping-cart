@@ -1,9 +1,9 @@
-import { createSelector } from "reselect";
+import _ from 'lodash';
+import { createSelector } from 'reselect';
 
-export const getHistory = state => state.history || [];
+export const getHistory = (state) => state.history || [];
 
 export const getHistoryItems = createSelector(
-    getHistory,
-    (history) => _.orderBy(history, 'eventTime', 'desc')
+  getHistory,
+  (history) => _.orderBy(history, 'eventTime', 'desc'),
 );
-
